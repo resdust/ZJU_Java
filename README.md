@@ -10,3 +10,6 @@ https://www.icourse163.org/learn/ZJU-1001542001?tid=1464410444#/learn/announce
 - 第三周 对象容器
 - 第四周 继承与多态
 - 第五周 设计原则
+- 第六周 抽象与接口
+- 第七周 控制反转与MVC模式
+-   第七周的原工程从　https://github.com/jasmhusc/foxandrabbit　克隆，之后增加了第七周课程的ＭＶＣ模式
